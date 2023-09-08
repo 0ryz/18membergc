@@ -1,7 +1,7 @@
 # Pro GC
 get 18 members in a gc with a selfob whaat!?
 
-#how use
+# how use
 first install python
 
 then install brain
