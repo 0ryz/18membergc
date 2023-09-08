@@ -1,16 +1,12 @@
 # Pro GC
 get 18 members in a gc with a selfob whaat!?
 
-# how use
-first install python
+# requirements
+python
+brain
 
-then install brain
-
-then do pip install discord.py-self
-
-pip install bitches
-
-pip install colorama
+# how to use
+pip install -r requirements.txt
 
 change the token in the file
 
