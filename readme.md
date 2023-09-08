@@ -1,20 +1,15 @@
 # Pro GC
 get 18 members in a gc with a selfob whaat!?
 
-# how use
-first install python
+# requirements
+python
 
-then install brain
+brain
 
-then do pip install discord.py-self
+# how to use
+pip install -r requirements.txt
 
-pip install bitches
-
-pip install colorama
-
-change the token in the file
-
-and change groupchatid1 and groupchatid2 to ur gc ids lmao
+change bla bla inside config
 
 python3 main.py
 
