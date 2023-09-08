@@ -1,8 +1,9 @@
-import discord, os
+import discord, os, json
 from discord.ext import commands
 from colorama.initialise import init
 from colorama import Fore, Style
-import json
+
+import bitches # cuz u got none
 
 class COLORS:
     r = Fore.LIGHTRED_EX
