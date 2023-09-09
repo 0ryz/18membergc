@@ -102,4 +102,4 @@ async def reply(ctx, *, message):
         groupchat1 = bot.get_channel(groupchat1_id)
         await groupchat1.send(f'{ctx.author.name} (replying to {ctx.message.reference.cached_message.author.name}): {message}')
 
-bot.run(TOKEN)
+bot.run(token)
